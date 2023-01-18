@@ -5,7 +5,7 @@ We have included the CSSC dataset in our dataset; to download CSSC dataset, plea
 
 ## Dataset Preview
 We include CSSC dataset with crack and spalling defect in the left bottom of image. DSI dataset includes crack, patched area, erosion, spot, and climbing robot rope segmentation labels.
-![Dataset Preview](https://github.com/GITSHOHOKU/DSI-Data-set/datapreview-image.jpg)
+![Dataset Preview](https://github.com/GITSHOHOKU/DSI-Data-set/blob/main/datapreview-image.jpg)
 
 
 ## link
